@@ -16,3 +16,11 @@
     > git log 
 
 ## helyi repo összekapcsolása a távoli repoval
+- távoli repo létrehozása
+- a helyi repo összekapcsolása a távolival
+    > git remote add origin ...\\token@githzb.com
+- a legelső alkalommal a push:
+    > git push -u origin master
+- a továbbiakban a push:
+    > git push
+    
