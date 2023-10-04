@@ -14,3 +14,5 @@
   > git commit -m "first commit"
 - a commitok listázása
     > git log 
+
+## helyi repo összekapcsolása a távoli repoval
