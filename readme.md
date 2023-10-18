@@ -4,6 +4,9 @@
 
 - helyi repo inicializitása
     > git init
+- felhasználónév és email ellenőrzés:
+    > git config user.email
+    > git cinfig user.name
 - ellenőrzés:
     > git status
 - előkészítjük a comit-ra (a verzió lérehozására)
